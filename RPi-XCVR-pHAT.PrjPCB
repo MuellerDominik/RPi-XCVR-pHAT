@@ -88,10 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RPi-XCVR-pHAT\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Copy
 Value=Copyright © 2018
@@ -126,7 +122,7 @@ Value=RPi-XCVR-pHAT.PrjPCB
 
 [Parameter9]
 Name=Version
-Value=v0.0.1
+Value=v1.0.0
 
 [Configuration1]
 Name=Sources
