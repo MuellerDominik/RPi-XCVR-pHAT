@@ -122,7 +122,7 @@ Value=RPi-XCVR-pHAT.PrjPCB
 
 [Parameter9]
 Name=Version
-Value=v1.0.0
+Value=v1.0.1
 
 [Configuration1]
 Name=Sources
