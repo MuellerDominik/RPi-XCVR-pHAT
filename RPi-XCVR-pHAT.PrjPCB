@@ -89,40 +89,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Version
-Value=v1.0.0
+Name=Copy
+Value=Copyright © 2018
 
 [Parameter2]
-Name=Project
-Value=RPi-XCVR-pHAT.PrjPCB
+Name=Creator
+Value=pro3E - Team4
 
 [Parameter3]
-Name=PaperSize
-Value=A4
+Name=Desc
+Value=Tranceiver pHAT for the Raspberry Pi Zero W
 
 [Parameter4]
-Name=Number
-Value=BMS-130-000
+Name=License
+Value=MIT License
 
 [Parameter5]
 Name=Name
 Value=RPi-XCVR-pHAT
 
 [Parameter6]
-Name=License
-Value=MIT License
+Name=Number
+Value=BMS-130-000
 
 [Parameter7]
-Name=Desc
-Value=Tranceiver pHAT for the Raspberry Pi Zero W
+Name=PaperSize
+Value=A4
 
 [Parameter8]
-Name=Creator
-Value=pro3E - Team4
+Name=Project
+Value=RPi-XCVR-pHAT.PrjPCB
 
 [Parameter9]
-Name=Copy
-Value=Copyright © 2018
+Name=Version
+Value=v1.0.0
 
 [Configuration1]
 Name=Sources
@@ -783,6 +783,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
