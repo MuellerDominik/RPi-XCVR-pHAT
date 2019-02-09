@@ -89,40 +89,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Copy
-Value=Copyright © 2018
+Name=Version
+Value=v1.0.2
 
 [Parameter2]
-Name=Creator
-Value=pro3E - Team4
+Name=Project
+Value=RPi-XCVR-pHAT.PrjPCB
 
 [Parameter3]
-Name=Desc
-Value=Tranceiver pHAT for the Raspberry Pi Zero W
+Name=PaperSize
+Value=A4
 
 [Parameter4]
-Name=License
-Value=MIT License
+Name=Number
+Value=BMS-130-000
 
 [Parameter5]
 Name=Name
 Value=RPi-XCVR-pHAT
 
 [Parameter6]
-Name=Number
-Value=BMS-130-000
+Name=License
+Value=MIT License
 
 [Parameter7]
-Name=PaperSize
-Value=A4
+Name=Desc
+Value=Tranceiver pHAT for the Raspberry Pi Zero W
 
 [Parameter8]
-Name=Project
-Value=RPi-XCVR-pHAT.PrjPCB
+Name=Creator
+Value=pro3E - Team4
 
 [Parameter9]
-Name=Version
-Value=v1.0.1
+Name=Copy
+Value=Copyright © 2018
 
 [Configuration1]
 Name=Sources
